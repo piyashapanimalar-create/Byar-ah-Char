@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Byar ah char Translate</string>
+    <string name="translate_with_byar_ah_char">Byar ah char Translate</string>
+    <string name="burmese_label">Burmese (မြန်မာစာ)</string>
+    <string name="english_label">English</string>
+    <string name="tamil_label">Tamil (தமிழ்)</string>
+</resources>
